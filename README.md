@@ -27,9 +27,9 @@
 <!-- knowledgebase构建 -->  
 ---  
 
-/api/v1/knowledge:获取当前用户的知识库条目;  
-/api/v1/knowledge:创建知识库条目;  
-/api/v1/knowledge{entry_id}:更新知识库条目;  
+/api/v1/knowledge:获取当前用户的知识库条目；  
+/api/v1/knowledge:创建知识库条目；  
+/api/v1/knowledge{entry_id}:更新知识库条目；  
 /api/v1/knowledge{entry_id}:删除知识库条目  
 
 ## 2.技术框架
